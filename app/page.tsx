@@ -25,7 +25,7 @@ export default function Home() {
             Hello, I&apos;m <span className="text-blue-400">Amorano</span>
           </h1>
           <p className="text-xl text-gray-300 mb-8">
-            Software Developer & Creative Technologist
+            Software Developer & Creative Technologist & Technical Director
           </p>
           <div className="flex space-x-4">
             <a href="https://github.com/Amorano"
@@ -35,7 +35,7 @@ export default function Home() {
             <a href="#contact" className="p-2 hover:text-blue-400 transition">
               <MailIcon size={24} />
             </a>
-            <a href="#linkedin" className="p-2 hover:text-blue-400 transition">
+            <a href="https://www.linkedin.com/in/alexandermorano/" className="p-2 hover:text-blue-400 transition">
               <LinkedinIcon size={24} />
             </a>
           </div>
