@@ -1,5 +1,5 @@
 import React from 'react';
-import { GitHub, Mail, Linkedin } from 'lucide-react';
+import { GithubIcon, MailIcon, LinkedinIcon } from 'lucide-react';
 
 export default function Home() {
   return (
@@ -22,7 +22,7 @@ export default function Home() {
       <section className="pt-32 pb-20 px-4">
         <div className="container mx-auto max-w-4xl">
           <h1 className="text-6xl font-bold mb-6">
-            Hello, I'm <span className="text-blue-400">Amorano</span>
+            Hello, I&apos;m <span className="text-blue-400">Amorano</span>
           </h1>
           <p className="text-xl text-gray-300 mb-8">
             Software Developer & Creative Technologist
@@ -30,13 +30,13 @@ export default function Home() {
           <div className="flex space-x-4">
             <a href="https://github.com/Amorano"
                className="p-2 hover:text-blue-400 transition">
-              <GitHub size={24} />
+              <GithubIcon size={24} />
             </a>
             <a href="#contact" className="p-2 hover:text-blue-400 transition">
-              <Mail size={24} />
+              <MailIcon size={24} />
             </a>
             <a href="#linkedin" className="p-2 hover:text-blue-400 transition">
-              <Linkedin size={24} />
+              <LinkedinIcon size={24} />
             </a>
           </div>
         </div>
