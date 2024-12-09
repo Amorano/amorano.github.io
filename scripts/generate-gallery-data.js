@@ -16,7 +16,10 @@ function generateGalleryData() {
 
   // Create a map of existing entries by filename
   const existingMap = new Map(
-    existingData.map(item => [item.imageUrl.replace('/images/', ''), item])
+    existingData.map(item => [item.imageUrl.replace('/images/', ''), {
+      ...item,
+      tags: item.tags.sort((a, b) => a.localeCompare(b)) // Sort tags in existing entries
+    }])
   );
 
   // Get list of image files
@@ -35,7 +38,7 @@ function generateGalleryData() {
         id: existingData.length + newEntries.length + 1,
         title: "NEEDS_TITLE",
         imageUrl: `/images/${file}`,
-        tags: ["NEEDS_TAGS"]
+        tags: ["NEEDS_TAGS"] // No need to sort single placeholder tag
       });
     }
   });
@@ -45,8 +48,11 @@ function generateGalleryData() {
     newEntries.forEach(entry => console.log(entry.imageUrl));
   }
 
-  // Combine existing and new entries
-  const allEntries = [...existingData, ...newEntries];
+  // Combine existing (with sorted tags) and new entries
+  const allEntries = [
+    ...Array.from(existingMap.values()),
+    ...newEntries
+  ];
 
   // Write the updated data
   fs.writeFileSync(outputPath, JSON.stringify(allEntries, null, 2));
