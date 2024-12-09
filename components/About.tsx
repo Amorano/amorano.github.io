@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function AboutSection() {
   return (
-    <section id="about" className="pt-16 pb-2 px-2">
+    <section id="about" className="pt-16 pb-8 px-2">
       <div className="container mx-auto px-4 max-w-6xl">
         {/* Header Content */}
         <h1 className="text-4xl font-bold mb-4">
@@ -90,7 +90,10 @@ export default function AboutSection() {
 
           <div className="bio-section">
             <p className="text-xl text-gray-300">
-              Today, I continue to push the boundaries of creative technology through open-source contributions and project development. My work on <a href="https://github.com/Amorano/Jovimetrix">Jovimetrix</a>, which provides advanced compositing capabilities, GLSL shader support and MIDI integration for ComfyUI, reflects my commitment to advancing the digital creation space for all users.
+              Today, I continue to push the boundaries of creative technology through open-source contributions and project development. My work on <a href="https://github.com/Amorano/Jovimetrix"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 hover:underline">Jovimetrix</a>, which provides advanced compositing capabilities, GLSL shader support and MIDI integration for ComfyUI, reflects my commitment to advancing the digital creation space for all users.
             </p>
           </div>
 
