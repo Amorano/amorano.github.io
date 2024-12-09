@@ -18,13 +18,16 @@ function generateGalleryData() {
     // Remove file extension
     const nameWithoutExt = path.parse(file).name;
 
+    // Remove numbered suffix if it exists (e.g., " (1)", " (2)", etc.)
+    const cleanName = nameWithoutExt.replace(/\s*\(\d+\)$/, '');
+
     // Split the filename by hyphens
-    const parts = nameWithoutExt.split('-');
+    const parts = cleanName.split('-');
 
     // First part is the title
     const title = parts[0].charAt(0).toUpperCase() + parts[0].slice(1);
 
-    // Rest of the parts become tags
+    // Rest of the parts become tags, excluding any numbered suffixes
     const tags = parts.slice(1).map(tag =>
       tag.charAt(0).toUpperCase() + tag.slice(1)
     );
@@ -32,7 +35,7 @@ function generateGalleryData() {
     return {
       id: index + 1,
       title,
-      imageUrl: `/images/${file}`,
+      imageUrl: `/images/${file}`, // Keep original filename for image path
       tags
     };
   });
@@ -47,15 +50,16 @@ function generateGalleryData() {
   fs.writeFileSync(outputPath, JSON.stringify(galleryItems, null, 2));
   console.log(`Generated gallery data with ${galleryItems.length} items`);
 
-  // Example of the data structure being generated
-  console.log('\nExample item from "android-tua-fish-longer.jpg":');
-  const example = galleryItems.find(item => item.title.includes('Android'));
-  if (example) {
+  // Log some examples to show the cleaning in action
+  console.log('\nExample items:');
+  const examples = galleryItems.slice(0, 3);
+  examples.forEach(item => {
     console.log({
-      title: example.title,
-      tags: example.tags
+      title: item.title,
+      tags: item.tags,
+      imageUrl: item.imageUrl
     });
-  }
+  });
 }
 
 generateGalleryData();
