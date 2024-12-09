@@ -11,7 +11,7 @@ export default function Header() {
           <div className="space-x-6">
             <a href="#about" className="hover:text-blue-400 transition">About</a>
             <a href="#projects" className="hover:text-blue-400 transition">Projects</a>
-            <a href="#gallery" className="hover:text-blue-400 transition">Gallery</a>
+            <a href="#gallery" className="hover:text-blue-400 transition">AI Gallery</a>
             <a href="#contact" className="hover:text-blue-400 transition">Contact</a>
           </div>
         </div>

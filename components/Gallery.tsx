@@ -69,9 +69,9 @@ const GallerySection = () => {
   }, [selectedImageId, handleKeyDown]);
 
   return (
-    <section className="pt-24 pb-12 px-4">
+    <section id="gallery" className="pt-16 pb-12 px-4">
       <div className="container mx-auto px-4 max-w-6xl">
-        <h2 className="text-4xl font-bold mb-6">Gallery</h2>
+        <h2 className="text-4xl font-bold mb-6">AI Gallery</h2>
 
         <div className="mb-8 flex flex-wrap gap-2">
           {allTags.map(tag => (
@@ -106,6 +106,8 @@ const GallerySection = () => {
                 />
               </div>
               <div className="p-4 space-y-2">
+                {/* <h3 className="text-lg font-semibold text-white">#{item.id} - {item.title}</h3> */}
+                <h3 className="text-lg font-semibold text-white">#{item.id}</h3>
                 <div className="flex flex-wrap gap-2">
                   {item.tags.map((tag) => (
                     <span
