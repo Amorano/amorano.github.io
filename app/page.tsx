@@ -1,8 +1,9 @@
 import React from 'react';
 import Header from '../components/Header';
 import AboutSection from '../components/About';
-import GallerySection from '../components/Gallery';
 import ProjectsSection from '../components/Projects';
+import MusicSection from '../components/Music';
+import GallerySection from '../components/Gallery';
 import ContactSection from '../components/Contact';
 import Footer from '../components/Footer';
 
@@ -12,6 +13,7 @@ export default function Home() {
       <Header />
       <AboutSection />
       <ProjectsSection />
+      <MusicSection />
       <GallerySection />
       <ContactSection />
       <Footer />
