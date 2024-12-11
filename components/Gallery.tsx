@@ -71,8 +71,7 @@ const GallerySection = () => {
   return (
     <section id="gallery" className="pt-16 pb-12 px-4">
       <div className="container mx-auto px-4 max-w-6xl">
-        <h2 className="text-4xl font-bold mb-6">AI Gallery</h2>
-
+        <h2 className="text-4xl font-bold mb-6">Images</h2>
         <div className="mb-8 flex flex-wrap gap-2">
           {allTags.map(tag => (
             <button
