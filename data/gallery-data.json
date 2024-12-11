@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Title",
-    "imageUrl": "/images/001.png",
+    "imageUrl": "/images/001.jpg",
     "tags": [
       "Android",
       "Female",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "Title",
-    "imageUrl": "/images/002.png",
+    "imageUrl": "/images/002.jpg",
     "tags": [
       "Android",
       "Future",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "title": "Title",
-    "imageUrl": "/images/003.png",
+    "imageUrl": "/images/003.jpg",
     "tags": [
       "Android",
       "Future",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "title": "Title",
-    "imageUrl": "/images/004.png",
+    "imageUrl": "/images/004.jpg",
     "tags": [
       "Animal",
       "Bug",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "title": "Title",
-    "imageUrl": "/images/005.png",
+    "imageUrl": "/images/005.jpg",
     "tags": [
       "Animal",
       "Bug",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "title": "Title",
-    "imageUrl": "/images/006.png",
+    "imageUrl": "/images/006.jpg",
     "tags": [
       "Animal",
       "Bug",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "title": "Title",
-    "imageUrl": "/images/007.png",
+    "imageUrl": "/images/007.jpg",
     "tags": [
       "Animal",
       "Bug",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "title": "Title",
-    "imageUrl": "/images/008.png",
+    "imageUrl": "/images/008.jpg",
     "tags": [
       "Animal",
       "Future",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "title": "Title",
-    "imageUrl": "/images/009.png",
+    "imageUrl": "/images/009.jpg",
     "tags": [
       "Animal",
       "Future",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "title": "Title",
-    "imageUrl": "/images/010.png",
+    "imageUrl": "/images/010.jpg",
     "tags": [
       "Animal",
       "Jellyfish",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "title": "Title",
-    "imageUrl": "/images/011.png",
+    "imageUrl": "/images/011.jpg",
     "tags": [
       "Animal",
       "Jellyfish",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "title": "Title",
-    "imageUrl": "/images/012.png",
+    "imageUrl": "/images/012.jpg",
     "tags": [
       "Animal",
       "Jellyfish",
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "title": "Title",
-    "imageUrl": "/images/013.png",
+    "imageUrl": "/images/013.jpg",
     "tags": [
       "Animal",
       "Owl"
@@ -131,7 +131,7 @@
   {
     "id": 14,
     "title": "Title",
-    "imageUrl": "/images/014.png",
+    "imageUrl": "/images/014.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "title": "Title",
-    "imageUrl": "/images/015.png",
+    "imageUrl": "/images/015.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -153,7 +153,7 @@
   {
     "id": 16,
     "title": "Title",
-    "imageUrl": "/images/016.png",
+    "imageUrl": "/images/016.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -164,7 +164,7 @@
   {
     "id": 17,
     "title": "Title",
-    "imageUrl": "/images/017.png",
+    "imageUrl": "/images/017.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -175,7 +175,7 @@
   {
     "id": 18,
     "title": "Title",
-    "imageUrl": "/images/018.png",
+    "imageUrl": "/images/018.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -186,7 +186,7 @@
   {
     "id": 19,
     "title": "Title",
-    "imageUrl": "/images/019.png",
+    "imageUrl": "/images/019.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -197,7 +197,7 @@
   {
     "id": 20,
     "title": "Title",
-    "imageUrl": "/images/020.png",
+    "imageUrl": "/images/020.jpg",
     "tags": [
       "Animal",
       "Fantasy",
@@ -208,7 +208,7 @@
   {
     "id": 21,
     "title": "Title",
-    "imageUrl": "/images/021.png",
+    "imageUrl": "/images/021.jpg",
     "tags": [
       "Animal",
       "Camel",
@@ -220,7 +220,7 @@
   {
     "id": 22,
     "title": "Title",
-    "imageUrl": "/images/022.png",
+    "imageUrl": "/images/022.jpg",
     "tags": [
       "Arcology",
       "Building",
@@ -230,7 +230,7 @@
   {
     "id": 23,
     "title": "Title",
-    "imageUrl": "/images/023.png",
+    "imageUrl": "/images/023.jpg",
     "tags": [
       "Arcology",
       "Building",
@@ -240,7 +240,7 @@
   {
     "id": 24,
     "title": "Title",
-    "imageUrl": "/images/024.png",
+    "imageUrl": "/images/024.jpg",
     "tags": [
       "Building",
       "Fantasy",
@@ -251,7 +251,7 @@
   {
     "id": 25,
     "title": "Title",
-    "imageUrl": "/images/025.png",
+    "imageUrl": "/images/025.jpg",
     "tags": [
       "Building",
       "Fantasy",
@@ -262,7 +262,7 @@
   {
     "id": 26,
     "title": "Title",
-    "imageUrl": "/images/026.png",
+    "imageUrl": "/images/026.jpg",
     "tags": [
       "Building",
       "Fantasy",
@@ -273,7 +273,7 @@
   {
     "id": 27,
     "title": "Title",
-    "imageUrl": "/images/027.png",
+    "imageUrl": "/images/027.jpg",
     "tags": [
       "Building",
       "Fantasy",
@@ -284,7 +284,7 @@
   {
     "id": 28,
     "title": "Title",
-    "imageUrl": "/images/028.png",
+    "imageUrl": "/images/028.jpg",
     "tags": [
       "Building",
       "Fantasy",
@@ -295,7 +295,7 @@
   {
     "id": 29,
     "title": "Title",
-    "imageUrl": "/images/029.png",
+    "imageUrl": "/images/029.jpg",
     "tags": [
       "Card",
       "Graphic"
@@ -304,7 +304,7 @@
   {
     "id": 30,
     "title": "Title",
-    "imageUrl": "/images/030.png",
+    "imageUrl": "/images/030.jpg",
     "tags": [
       "Card",
       "Graphic"
@@ -313,7 +313,7 @@
   {
     "id": 31,
     "title": "Title",
-    "imageUrl": "/images/031.png",
+    "imageUrl": "/images/031.jpg",
     "tags": [
       "Card",
       "Graphic"
@@ -322,7 +322,7 @@
   {
     "id": 32,
     "title": "Title",
-    "imageUrl": "/images/032.png",
+    "imageUrl": "/images/032.jpg",
     "tags": [
       "Card",
       "Graphic"
@@ -331,7 +331,7 @@
   {
     "id": 33,
     "title": "Title",
-    "imageUrl": "/images/033.png",
+    "imageUrl": "/images/033.jpg",
     "tags": [
       "Concept",
       "Future"
@@ -340,7 +340,7 @@
   {
     "id": 34,
     "title": "Title",
-    "imageUrl": "/images/034.png",
+    "imageUrl": "/images/034.jpg",
     "tags": [
       "Dwarf",
       "Fantasy"
@@ -349,7 +349,7 @@
   {
     "id": 35,
     "title": "Title",
-    "imageUrl": "/images/035.png",
+    "imageUrl": "/images/035.jpg",
     "tags": [
       "Dress",
       "Dyad",
@@ -361,7 +361,7 @@
   {
     "id": 36,
     "title": "Title",
-    "imageUrl": "/images/036.png",
+    "imageUrl": "/images/036.jpg",
     "tags": [
       "Dress",
       "Dyad",
@@ -373,7 +373,7 @@
   {
     "id": 37,
     "title": "Title",
-    "imageUrl": "/images/037.png",
+    "imageUrl": "/images/037.jpg",
     "tags": [
       "Dress",
       "Dyad",
@@ -385,7 +385,7 @@
   {
     "id": 38,
     "title": "Title",
-    "imageUrl": "/images/038.png",
+    "imageUrl": "/images/038.jpg",
     "tags": [
       "Dress",
       "Dyad",
@@ -397,7 +397,7 @@
   {
     "id": 39,
     "title": "Title",
-    "imageUrl": "/images/039.png",
+    "imageUrl": "/images/039.jpg",
     "tags": [
       "Dress",
       "Dyad",
@@ -409,7 +409,7 @@
   {
     "id": 40,
     "title": "Title",
-    "imageUrl": "/images/040.png",
+    "imageUrl": "/images/040.jpg",
     "tags": [
       "Dress",
       "Dyad",
@@ -421,7 +421,7 @@
   {
     "id": 41,
     "title": "Title",
-    "imageUrl": "/images/041.png",
+    "imageUrl": "/images/041.jpg",
     "tags": [
       "Dress",
       "Dyad",
@@ -433,7 +433,7 @@
   {
     "id": 42,
     "title": "Title",
-    "imageUrl": "/images/042.png",
+    "imageUrl": "/images/042.jpg",
     "tags": [
       "Anthropomorphic",
       "Fantasy",
@@ -443,7 +443,7 @@
   {
     "id": 43,
     "title": "Title",
-    "imageUrl": "/images/043.png",
+    "imageUrl": "/images/043.jpg",
     "tags": [
       "Anthropomorphic",
       "Fantasy",
@@ -453,7 +453,7 @@
   {
     "id": 44,
     "title": "Title",
-    "imageUrl": "/images/044.png",
+    "imageUrl": "/images/044.jpg",
     "tags": [
       "Anthropomorphic",
       "Fantasy",
@@ -463,7 +463,7 @@
   {
     "id": 45,
     "title": "Title",
-    "imageUrl": "/images/045.png",
+    "imageUrl": "/images/045.jpg",
     "tags": [
       "Fantasy",
       "Fruit",
@@ -473,7 +473,7 @@
   {
     "id": 46,
     "title": "Title",
-    "imageUrl": "/images/046.png",
+    "imageUrl": "/images/046.jpg",
     "tags": [
       "Dress",
       "Female"
@@ -482,7 +482,7 @@
   {
     "id": 47,
     "title": "Title",
-    "imageUrl": "/images/047.png",
+    "imageUrl": "/images/047.jpg",
     "tags": [
       "Dress",
       "Female"
@@ -491,7 +491,7 @@
   {
     "id": 48,
     "title": "Title",
-    "imageUrl": "/images/048.png",
+    "imageUrl": "/images/048.jpg",
     "tags": [
       "Dress",
       "Female"
@@ -500,7 +500,7 @@
   {
     "id": 49,
     "title": "Title",
-    "imageUrl": "/images/049.png",
+    "imageUrl": "/images/049.jpg",
     "tags": [
       "Female",
       "Graphic",
@@ -510,7 +510,7 @@
   {
     "id": 50,
     "title": "Title",
-    "imageUrl": "/images/050.png",
+    "imageUrl": "/images/050.jpg",
     "tags": [
       "Female",
       "Graphic",
@@ -520,7 +520,7 @@
   {
     "id": 51,
     "title": "Title",
-    "imageUrl": "/images/051.png",
+    "imageUrl": "/images/051.jpg",
     "tags": [
       "Female",
       "Graphic",
@@ -530,7 +530,7 @@
   {
     "id": 52,
     "title": "Title",
-    "imageUrl": "/images/052.png",
+    "imageUrl": "/images/052.jpg",
     "tags": [
       "Female",
       "Graphic",
@@ -540,7 +540,7 @@
   {
     "id": 53,
     "title": "Title",
-    "imageUrl": "/images/053.png",
+    "imageUrl": "/images/053.jpg",
     "tags": [
       "Fruit",
       "Graphic"
@@ -549,7 +549,7 @@
   {
     "id": 54,
     "title": "Title",
-    "imageUrl": "/images/054.png",
+    "imageUrl": "/images/054.jpg",
     "tags": [
       "Fruit",
       "Graphic"
@@ -558,7 +558,7 @@
   {
     "id": 55,
     "title": "Title",
-    "imageUrl": "/images/055.png",
+    "imageUrl": "/images/055.jpg",
     "tags": [
       "Fruit",
       "Graphic"
@@ -567,7 +567,7 @@
   {
     "id": 56,
     "title": "Title",
-    "imageUrl": "/images/056.png",
+    "imageUrl": "/images/056.jpg",
     "tags": [
       "Fruit",
       "Graphic"
@@ -576,7 +576,7 @@
   {
     "id": 57,
     "title": "Title",
-    "imageUrl": "/images/057.png",
+    "imageUrl": "/images/057.jpg",
     "tags": [
       "Fruit",
       "Graphic"
@@ -585,7 +585,7 @@
   {
     "id": 58,
     "title": "Title",
-    "imageUrl": "/images/058.png",
+    "imageUrl": "/images/058.jpg",
     "tags": [
       "Fruit",
       "Graphic"
@@ -594,7 +594,7 @@
   {
     "id": 59,
     "title": "Title",
-    "imageUrl": "/images/059.png",
+    "imageUrl": "/images/059.jpg",
     "tags": [
       "Card",
       "Desert",
@@ -604,7 +604,7 @@
   {
     "id": 60,
     "title": "Title",
-    "imageUrl": "/images/060.png",
+    "imageUrl": "/images/060.jpg",
     "tags": [
       "Card",
       "Desert",
@@ -614,7 +614,7 @@
   {
     "id": 61,
     "title": "Title",
-    "imageUrl": "/images/061.png",
+    "imageUrl": "/images/061.jpg",
     "tags": [
       "Card",
       "Desert",
@@ -624,7 +624,7 @@
   {
     "id": 62,
     "title": "Title",
-    "imageUrl": "/images/062.png",
+    "imageUrl": "/images/062.jpg",
     "tags": [
       "Female",
       "Graphic"
@@ -633,7 +633,7 @@
   {
     "id": 63,
     "title": "Title",
-    "imageUrl": "/images/063.png",
+    "imageUrl": "/images/063.jpg",
     "tags": [
       "Female",
       "Graphic",
@@ -643,7 +643,7 @@
   {
     "id": 64,
     "title": "Title",
-    "imageUrl": "/images/064.png",
+    "imageUrl": "/images/064.jpg",
     "tags": [
       "Female",
       "Graphic",
@@ -653,7 +653,7 @@
   {
     "id": 65,
     "title": "Title",
-    "imageUrl": "/images/065.png",
+    "imageUrl": "/images/065.jpg",
     "tags": [
       "Female",
       "Graphic",
@@ -663,7 +663,7 @@
   {
     "id": 66,
     "title": "Title",
-    "imageUrl": "/images/066.png",
+    "imageUrl": "/images/066.jpg",
     "tags": [
       "Female",
       "Graphic"
@@ -672,7 +672,7 @@
   {
     "id": 67,
     "title": "Title",
-    "imageUrl": "/images/067.png",
+    "imageUrl": "/images/067.jpg",
     "tags": [
       "Graphic",
       "Male",
@@ -682,7 +682,7 @@
   {
     "id": 68,
     "title": "Title",
-    "imageUrl": "/images/068.png",
+    "imageUrl": "/images/068.jpg",
     "tags": [
       "Lora",
       "Marker"
@@ -691,7 +691,7 @@
   {
     "id": 69,
     "title": "Title",
-    "imageUrl": "/images/069.png",
+    "imageUrl": "/images/069.jpg",
     "tags": [
       "Lora",
       "Marker",
@@ -701,7 +701,7 @@
   {
     "id": 70,
     "title": "Title",
-    "imageUrl": "/images/070.png",
+    "imageUrl": "/images/070.jpg",
     "tags": [
       "Fantasy",
       "Monster"
@@ -710,7 +710,7 @@
   {
     "id": 71,
     "title": "Title",
-    "imageUrl": "/images/071.png",
+    "imageUrl": "/images/071.jpg",
     "tags": [
       "Fantasy",
       "Monster"
@@ -719,7 +719,7 @@
   {
     "id": 72,
     "title": "Title",
-    "imageUrl": "/images/072.png",
+    "imageUrl": "/images/072.jpg",
     "tags": [
       "Fantasy",
       "Monster"
@@ -728,7 +728,7 @@
   {
     "id": 73,
     "title": "Title",
-    "imageUrl": "/images/073.png",
+    "imageUrl": "/images/073.jpg",
     "tags": [
       "Fantasy",
       "Monster"
@@ -737,7 +737,7 @@
   {
     "id": 74,
     "title": "Title",
-    "imageUrl": "/images/074.png",
+    "imageUrl": "/images/074.jpg",
     "tags": [
       "Fantasy",
       "Monster"
@@ -746,7 +746,7 @@
   {
     "id": 75,
     "title": "Title",
-    "imageUrl": "/images/075.png",
+    "imageUrl": "/images/075.jpg",
     "tags": [
       "Graphic",
       "Ocean",
@@ -756,7 +756,7 @@
   {
     "id": 76,
     "title": "Title",
-    "imageUrl": "/images/076.png",
+    "imageUrl": "/images/076.jpg",
     "tags": [
       "Graphic",
       "Ocean",
@@ -766,7 +766,7 @@
   {
     "id": 77,
     "title": "Title",
-    "imageUrl": "/images/077.png",
+    "imageUrl": "/images/077.jpg",
     "tags": [
       "Graphic",
       "Ocean",
@@ -776,7 +776,7 @@
   {
     "id": 78,
     "title": "Title",
-    "imageUrl": "/images/078.png",
+    "imageUrl": "/images/078.jpg",
     "tags": [
       "Graphic",
       "Lora",
@@ -786,7 +786,7 @@
   {
     "id": 79,
     "title": "Title",
-    "imageUrl": "/images/079.png",
+    "imageUrl": "/images/079.jpg",
     "tags": [
       "Graphic",
       "Lora",
@@ -796,7 +796,7 @@
   {
     "id": 80,
     "title": "Title",
-    "imageUrl": "/images/080.png",
+    "imageUrl": "/images/080.jpg",
     "tags": [
       "Graphic",
       "Lora",
@@ -806,7 +806,7 @@
   {
     "id": 81,
     "title": "Title",
-    "imageUrl": "/images/081.png",
+    "imageUrl": "/images/081.jpg",
     "tags": [
       "Graphic",
       "Lora",
@@ -816,7 +816,7 @@
   {
     "id": 82,
     "title": "Title",
-    "imageUrl": "/images/082.png",
+    "imageUrl": "/images/082.jpg",
     "tags": [
       "Graphic",
       "Lora",
@@ -826,7 +826,7 @@
   {
     "id": 83,
     "title": "Title",
-    "imageUrl": "/images/083.png",
+    "imageUrl": "/images/083.jpg",
     "tags": [
       "Female",
       "Photo"
@@ -835,7 +835,7 @@
   {
     "id": 84,
     "title": "Title",
-    "imageUrl": "/images/084.png",
+    "imageUrl": "/images/084.jpg",
     "tags": [
       "Female",
       "Photo"
@@ -844,7 +844,7 @@
   {
     "id": 85,
     "title": "Title",
-    "imageUrl": "/images/085.png",
+    "imageUrl": "/images/085.jpg",
     "tags": [
       "Female",
       "Photo"
@@ -853,7 +853,7 @@
   {
     "id": 86,
     "title": "Title",
-    "imageUrl": "/images/086.png",
+    "imageUrl": "/images/086.jpg",
     "tags": [
       "Female",
       "Photo"
@@ -862,7 +862,7 @@
   {
     "id": 87,
     "title": "Title",
-    "imageUrl": "/images/087.png",
+    "imageUrl": "/images/087.jpg",
     "tags": [
       "Female",
       "Photo",
@@ -872,7 +872,7 @@
   {
     "id": 88,
     "title": "Title",
-    "imageUrl": "/images/088.png",
+    "imageUrl": "/images/088.jpg",
     "tags": [
       "Female",
       "Photo",
@@ -882,7 +882,7 @@
   {
     "id": 89,
     "title": "Title",
-    "imageUrl": "/images/089.png",
+    "imageUrl": "/images/089.jpg",
     "tags": [
       "Female",
       "Photo",
@@ -892,7 +892,7 @@
   {
     "id": 90,
     "title": "Title",
-    "imageUrl": "/images/090.png",
+    "imageUrl": "/images/090.jpg",
     "tags": [
       "Female",
       "Photo",
@@ -902,7 +902,7 @@
   {
     "id": 91,
     "title": "Title",
-    "imageUrl": "/images/091.png",
+    "imageUrl": "/images/091.jpg",
     "tags": [
       "Female",
       "Photo",
@@ -912,7 +912,7 @@
   {
     "id": 92,
     "title": "Title",
-    "imageUrl": "/images/092.png",
+    "imageUrl": "/images/092.jpg",
     "tags": [
       "Female",
       "Photo",
@@ -922,7 +922,7 @@
   {
     "id": 93,
     "title": "Title",
-    "imageUrl": "/images/093.png",
+    "imageUrl": "/images/093.jpg",
     "tags": [
       "Male",
       "Photo"
@@ -931,7 +931,7 @@
   {
     "id": 94,
     "title": "Title",
-    "imageUrl": "/images/094.png",
+    "imageUrl": "/images/094.jpg",
     "tags": [
       "Male",
       "Photo"
@@ -940,7 +940,7 @@
   {
     "id": 95,
     "title": "Title",
-    "imageUrl": "/images/095.png",
+    "imageUrl": "/images/095.jpg",
     "tags": [
       "Fantasy",
       "Male",
@@ -951,7 +951,7 @@
   {
     "id": 96,
     "title": "Title",
-    "imageUrl": "/images/096.png",
+    "imageUrl": "/images/096.jpg",
     "tags": [
       "Female",
       "Portrait"
@@ -960,7 +960,7 @@
   {
     "id": 97,
     "title": "Title",
-    "imageUrl": "/images/097.png",
+    "imageUrl": "/images/097.jpg",
     "tags": [
       "Male",
       "Portrait"
@@ -969,7 +969,7 @@
   {
     "id": 98,
     "title": "Title",
-    "imageUrl": "/images/098.png",
+    "imageUrl": "/images/098.jpg",
     "tags": [
       "Male",
       "Portrait"
@@ -978,7 +978,7 @@
   {
     "id": 99,
     "title": "Title",
-    "imageUrl": "/images/099.png",
+    "imageUrl": "/images/099.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -989,7 +989,7 @@
   {
     "id": 100,
     "title": "Title",
-    "imageUrl": "/images/100.png",
+    "imageUrl": "/images/100.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -1000,7 +1000,7 @@
   {
     "id": 101,
     "title": "Title",
-    "imageUrl": "/images/101.png",
+    "imageUrl": "/images/101.jpg",
     "tags": [
       "Animal",
       "Anthropomorphic",
@@ -1011,7 +1011,7 @@
   {
     "id": 102,
     "title": "Title",
-    "imageUrl": "/images/102.png",
+    "imageUrl": "/images/102.jpg",
     "tags": [
       "Future",
       "Mecha",
@@ -1021,7 +1021,7 @@
   {
     "id": 103,
     "title": "Title",
-    "imageUrl": "/images/103.png",
+    "imageUrl": "/images/103.jpg",
     "tags": [
       "Future",
       "Mecha",
@@ -1031,7 +1031,7 @@
   {
     "id": 104,
     "title": "Title",
-    "imageUrl": "/images/104.png",
+    "imageUrl": "/images/104.jpg",
     "tags": [
       "Graphic",
       "Tree"
@@ -1040,7 +1040,7 @@
   {
     "id": 105,
     "title": "Title",
-    "imageUrl": "/images/105.png",
+    "imageUrl": "/images/105.jpg",
     "tags": [
       "Graphic",
       "Tree"
@@ -1049,7 +1049,7 @@
   {
     "id": 106,
     "title": "Title",
-    "imageUrl": "/images/106.png",
+    "imageUrl": "/images/106.jpg",
     "tags": [
       "Graphic",
       "Tree"
@@ -1058,7 +1058,7 @@
   {
     "id": 107,
     "title": "Title",
-    "imageUrl": "/images/107.png",
+    "imageUrl": "/images/107.jpg",
     "tags": [
       "Graphic",
       "Tree"
@@ -1067,7 +1067,7 @@
   {
     "id": 108,
     "title": "Title",
-    "imageUrl": "/images/108.png",
+    "imageUrl": "/images/108.jpg",
     "tags": [
       "Graphic",
       "Tree"
@@ -1076,7 +1076,7 @@
   {
     "id": 109,
     "title": "Title",
-    "imageUrl": "/images/109.png",
+    "imageUrl": "/images/109.jpg",
     "tags": [
       "Black & White",
       "Graphic",
@@ -1086,7 +1086,7 @@
   {
     "id": 110,
     "title": "Title",
-    "imageUrl": "/images/110.png",
+    "imageUrl": "/images/110.jpg",
     "tags": [
       "Black & White",
       "Graphic",
@@ -1096,7 +1096,7 @@
   {
     "id": 111,
     "title": "Title",
-    "imageUrl": "/images/111.png",
+    "imageUrl": "/images/111.jpg",
     "tags": [
       "Circular",
       "Graphic",
@@ -1106,7 +1106,7 @@
   {
     "id": 112,
     "title": "Title",
-    "imageUrl": "/images/112.png",
+    "imageUrl": "/images/112.jpg",
     "tags": [
       "Circular",
       "Graphic",
@@ -1116,7 +1116,7 @@
   {
     "id": 113,
     "title": "Title",
-    "imageUrl": "/images/113.png",
+    "imageUrl": "/images/113.jpg",
     "tags": [
       "Circular",
       "Graphic",
@@ -1126,7 +1126,7 @@
   {
     "id": 114,
     "title": "Title",
-    "imageUrl": "/images/114.png",
+    "imageUrl": "/images/114.jpg",
     "tags": [
       "Circular",
       "Graphic",
@@ -1136,7 +1136,7 @@
   {
     "id": 115,
     "title": "Title",
-    "imageUrl": "/images/115.png",
+    "imageUrl": "/images/115.jpg",
     "tags": [
       "Circular",
       "Graphic",
@@ -1146,7 +1146,7 @@
   {
     "id": 116,
     "title": "Title",
-    "imageUrl": "/images/116.png",
+    "imageUrl": "/images/116.jpg",
     "tags": [
       "Circular",
       "Graphic",
@@ -1156,7 +1156,7 @@
   {
     "id": 117,
     "title": "Title",
-    "imageUrl": "/images/117.png",
+    "imageUrl": "/images/117.jpg",
     "tags": [
       "Fruit",
       "Graphic",
@@ -1166,7 +1166,7 @@
   {
     "id": 118,
     "title": "Title",
-    "imageUrl": "/images/118.png",
+    "imageUrl": "/images/118.jpg",
     "tags": [
       "Fruit",
       "Graphic",
@@ -1176,7 +1176,7 @@
   {
     "id": 119,
     "title": "Title",
-    "imageUrl": "/images/119.png",
+    "imageUrl": "/images/119.jpg",
     "tags": [
       "Graphic",
       "Tree"
@@ -1185,7 +1185,7 @@
   {
     "id": 120,
     "title": "Title",
-    "imageUrl": "/images/120.png",
+    "imageUrl": "/images/120.jpg",
     "tags": [
       "Character",
       "Female",
@@ -1195,7 +1195,7 @@
   {
     "id": 121,
     "title": "Title",
-    "imageUrl": "/images/121.png",
+    "imageUrl": "/images/121.jpg",
     "tags": [
       "Fantasy",
       "Graphic",
@@ -1205,7 +1205,7 @@
   {
     "id": 122,
     "title": "Title",
-    "imageUrl": "/images/122.png",
+    "imageUrl": "/images/122.jpg",
     "tags": [
       "Fantasy",
       "Graphic",
@@ -1215,7 +1215,7 @@
   {
     "id": 123,
     "title": "Title",
-    "imageUrl": "/images/123.png",
+    "imageUrl": "/images/123.jpg",
     "tags": [
       "Fantasy",
       "Graphic",
@@ -1225,7 +1225,7 @@
   {
     "id": 124,
     "title": "Title",
-    "imageUrl": "/images/124.png",
+    "imageUrl": "/images/124.jpg",
     "tags": [
       "Fantasy",
       "Male",
@@ -1235,7 +1235,7 @@
   {
     "id": 125,
     "title": "Title",
-    "imageUrl": "/images/125.png",
+    "imageUrl": "/images/125.jpg",
     "tags": [
       "Fantasy",
       "Male",
